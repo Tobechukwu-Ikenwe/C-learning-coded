@@ -1,24 +1,17 @@
 /******************************************************************************
-
-    Write a C++ program that takes grades for multiple students across several subjects,
-    stores them in arrays, and computes useful statistics — average, highest, lowest,
-    standard deviation, and a letter grade summary.
-
-    (Note: The code below is just a sample program that collects favorite foods,
-    not the grade program described above.)
-
+    Write a C++ program that collects the favourite foods of a user using a vector
+    and displays it when done.
 *******************************************************************************/
 
 #include <iostream>   // Needed for input/output
 #include <string>     // Needed for std::string and std::getline
+#include <vector>     // Needed for std::vector and size()
 
 int main()
 {
-    // Declare an array of 5 strings to hold up to 5 favorite foods
-    std::string foods[5];
-
-    // Calculate the number of elements in the array
-    int size = sizeof(foods) / sizeof(foods[0]);
+    // Declare an array of 10 strings to hold up to 10 favorite foods
+    std::vector<std::string>foods(10) 
+    size = foods.size()
 
     // Temporary variable to store each user input before assigning it to the array
     std::string temp;
@@ -51,3 +44,4 @@ int main()
 
     return 0;   // End of program
 }
+
