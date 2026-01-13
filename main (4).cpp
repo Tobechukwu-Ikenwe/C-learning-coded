@@ -62,3 +62,4 @@ int sumEvenDigits(const std::string cardNumber) {
         sum += getDigit((cardNumber[i] - '0') * 2);
     return sum;
 }
+
