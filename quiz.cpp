@@ -54,4 +54,6 @@ int main()
             std::cout << "CORRECT!\n";
             score++;  // Increase score for correct answers
         } else {
-            std::cout << "WRONG! C
+            std::cout << "WRONG! Correct answer is "<< answerKey[i]<< "\n";
+        }
+
