@@ -1,4 +1,4 @@
-# Guess the Number Game (C++)
+# GuessGame
 
 This is a **beginner-friendly C++ program** that lets you play a classic "Guess the Number" game against the computer.  
 
@@ -22,7 +22,7 @@ The program includes **mode selection**, **input validation**, and **feedback on
 2. Open the file in your C++ IDE (like Code::Blocks, Visual Studio, or VSCode with C++ extensions).
 3. Compile the program:
    ```bash
-   g++ -o guess_number guess_number.cpp
+   g++ -o main main.cpp
 Run the program:
 
 ./guess_number   # Linux/Mac
@@ -69,7 +69,8 @@ Too low!
 Guesses left: 1
 Enter guess (1-100): 68
 Game Over! The number was 67.
-Notes
+
+# Notes
 The program uses rand() and srand() to generate a random number between 1 and 100.
 
 Input validation ensures the user enters valid choices for game mode.
