@@ -34,20 +34,29 @@ Sample Output
 
 Which mode would you prefer?
 1. Unlimited tries
-2. Limited tries
+
+3. Limited tries
 Choice: 1
 
 --- Guess the Number Game ---
 
 
 Guesses left: Infinity
+
 Enter guess (1-100): 50
+
 Too low!
+
 Guesses left: Infinity
+
 Enter guess (1-100): 75
+
 Too high!
+
 Guesses left: Infinity
+
 Enter guess (1-100): 63
+
 Correct! You won in 3 tries.
 
 
@@ -55,8 +64,11 @@ Correct! You won in 3 tries.
 
 Which mode would you prefer?
 1. Unlimited tries
-2. Limited tries
+   
+3. Limited tries
+   
 Choice: 2
+
 How many tries would you like? 5
 
 --- Guess the Number Game ---
@@ -69,16 +81,27 @@ Enter guess (1-100): 60
 Too low!
 
 Guesses left: 4
+
 Enter guess (1-100): 80
+
 Too high!
+
 Guesses left: 3
+
 Enter guess (1-100): 70
+
 Too high!
+
 Guesses left: 2
+
 Enter guess (1-100): 65
+
 Too low!
+
 Guesses left: 1
+
 Enter guess (1-100): 68
+
 Game Over! The number was 67.
 
 # Notes
