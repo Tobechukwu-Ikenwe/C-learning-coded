@@ -63,8 +63,11 @@ How many tries would you like? 5
 
 
 Guesses left: 5
+
 Enter guess (1-100): 60
+
 Too low!
+
 Guesses left: 4
 Enter guess (1-100): 80
 Too high!
