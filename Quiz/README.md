@@ -1,3 +1,6 @@
+# QUIZ 
+
+This is a 4-question quiz program to help you understand arrays and accessing the values from arrays, while practicing user input, condition checking, and score calculation in a simple console application.
 ## How to Run
 
 This is a simple C++ quiz program that runs in the terminal or an IDE.
@@ -13,12 +16,14 @@ This is a simple C++ quiz program that runs in the terminal or an IDE.
    g++ -o quiz main.cpp
 Run the program:
 
-# Linux / Mac
+Linux / Mac
 ./quiz
 
-# Windows
+Windows
 quiz.exe
-Notes
+
+
+#Notes
 The program is case-insensitive; you can type a or A for your answer.
 
 Make sure your terminal/IDE is pointing to the directory containing quiz.cpp before running the compile command.
