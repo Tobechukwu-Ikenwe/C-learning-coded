@@ -28,7 +28,9 @@ Run the program:
 ./guess_number   # Linux/Mac
 guess_number.exe # Windows
 Sample Output
-Unlimited Tries Mode:
+
+
+# Unlimited Tries Mode:
 
 Which mode would you prefer?
 1. Unlimited tries
@@ -36,6 +38,8 @@ Which mode would you prefer?
 Choice: 1
 
 --- Guess the Number Game ---
+
+
 Guesses left: Infinity
 Enter guess (1-100): 50
 Too low!
@@ -45,7 +49,9 @@ Too high!
 Guesses left: Infinity
 Enter guess (1-100): 63
 Correct! You won in 3 tries.
-Limited Tries Mode (e.g., 5 tries):
+
+
+# Limited Tries Mode (e.g., 5 tries):
 
 Which mode would you prefer?
 1. Unlimited tries
@@ -54,6 +60,8 @@ Choice: 2
 How many tries would you like? 5
 
 --- Guess the Number Game ---
+
+
 Guesses left: 5
 Enter guess (1-100): 60
 Too low!
