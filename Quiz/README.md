@@ -16,10 +16,10 @@ This is a simple C++ quiz program that runs in the terminal or an IDE.
    g++ -o quiz main.cpp
 Run the program:
 
-##Linux / Mac
+## Linux / Mac
 ./quiz
 
-##Windows
+## Windows
 quiz.exe
 
 
