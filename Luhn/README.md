@@ -38,7 +38,7 @@ Create a new C++ project.
 
 Add the source file main.cpp to the project.
 
-Build and run the project.
+# Build and run the project.
 
 Enter the credit card number in the console when prompted.
 
