@@ -9,9 +9,9 @@ This repository contains **elementary-level C++ programs** designed to help lear
 ## Philosophy
 
 I created these programs **for fun** and to **help others learn**.  
-I believe that **if you can’t explain your code to a beginner, you don’t truly understand it yourself**. That’s why you’ll find lots of inline comments not just here but also in my more complex projects, step-by-step explanations, and simple, readable code in this repo.  
+I believe that **if you can’t explain your code to someone with no experience(like my buddy Richard Feynman said), you don’t truly understand it yourself**. That’s why you’ll find lots of inline comments not just here but also in my more complex projects, step-by-step explanations, and simple, readable code in this repo.  
 
-These are not just programs—they’re learning tools. My hope is that they’ll make C++ concepts **less intimidating and more approachable** for anyone starting out.
+These are not just programs they’re learning tools. My hope is that they’ll make C++ concepts **less intimidating and more approachable** for anyone starting out.
 
 ---
 
