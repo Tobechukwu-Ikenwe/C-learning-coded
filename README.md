@@ -38,12 +38,9 @@ These are not just programs they’re learning tools. My hope is that they’ll 
    git clone https://github.com/yourusername/C-Learning-Codes.git
 
 
-Open the folder in your favorite IDE (VSCode, Code::Blocks, etc.)
+Open the folder in your favorite IDE (VSCode if you are starting out)
 
 Run any program and read through the comments carefully
 
-Modify the code, experiment, break it, and learn by doing!
+Modify the code, experiment, break it, and learn by practicing!
 
-Why Comments Matter
-
-Comments are not just for others—they’re for you, too. Writing detailed comments forces you to understand the code deeply and makes it easier to revisit months later. In this repo, every program is annotated so a beginner can follow along and learn confidently.
